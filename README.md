@@ -17,8 +17,38 @@ git clone https://github.com/r-moreira/js-games.git
 # Enter the folder of the game you want to play and read README.md
 cd xxxx.game
 ```
-
-## 🖥 Preview
+---
+## 🖥 Previews
 <p align="center">
-  <img src="./imgs/example.png" width="400" >
+  <img src="./__imgs__/Dino-game.gif" width="250" height="100">
 </p>
+
+---
+
+<p align="center">
+  <img src="./__imgs__/Memory-game.gif"  width="250" height="200">
+</p>
+
+---
+
+<p align="center">
+  <img src="./__imgs__/Rescue-game.gif" width="300" height="200">
+</p>
+
+---
+<p align="center">
+  <img src="./__imgs__/Snake-game.gif" width="250" height="220">
+</p>
+
+---
+<p align="center">
+  <img src="./__imgs__/Space-shooter-game.gif" width="250" height="220">
+</p>
+
+---
+
+<p align="center">
+  <img src="./__imgs__/Tic-tac-toe-game.gif" width="200" height="250">
+</p>
+
+---

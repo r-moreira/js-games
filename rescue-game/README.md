@@ -27,5 +27,6 @@ open the index.html file using a browser
 
 ## 🖥 Preview
 <p align="center">
-  <img src="#" width="400" >
+  <img src="../__imgs__/Rescue-game.gif" width="600" height="400">
 </p>
+

@@ -26,5 +26,5 @@ open the index.html file using a browser
 
 ## 🖥 Preview
 <p align="center">
-  <img src="#" width="400" >
+  <img src="../__imgs__/Space-shooter-game.gif" width="500" height="440">
 </p>

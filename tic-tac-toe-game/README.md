@@ -25,5 +25,5 @@ open the index.html file using a browser
 
 ## 🖥 Preview
 <p align="center">
-  <img src="#" width="400" >
-</p>
+  <img src="../__imgs__/Tic-tac-toe-game.gif" width="420" height="500">
+</p

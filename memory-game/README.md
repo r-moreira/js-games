@@ -24,5 +24,5 @@ open the index.html file using a browser
 
 ## 🖥 Preview
 <p align="center">
-  <img src="#" width="400" >
+  <img src="../__imgs__/Memory-game.gif"  width="500" height="400">
 </p>

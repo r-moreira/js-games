@@ -25,5 +25,7 @@ open the index.html file using a browser
 
 ## 🖥 Preview
 <p align="center">
-  <img src="./imgs/example.png" width="400" >
+  <img src="../__imgs__/Dino-game.gif" width="450" height="200">
 </p>
+
+---
